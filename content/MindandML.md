@@ -1,4 +1,4 @@
-Title: 把大腦當作模型：刻意練習與機器學習的對比
+Title: 把大腦當作模型：刻意練習與機器學習的比較
 Date: 2023-01-06
 Category: Tech&Science
 
