@@ -7,12 +7,12 @@ PATH = "content"
 TIMEZONE = 'America/Los_Angeles'
 ABOUT_ME = """
 
-旅居美國的平凡<br/>
+位居居美國波特蘭的<br/>
 Research Scientist<br/>
 資料科學、機器學習<br/>
 脫離學術的物理PhD<br/>
 <br/>
-喜歡電影、閱讀</br>
+電影、閱讀、學習心得</br>
 
 """
 
