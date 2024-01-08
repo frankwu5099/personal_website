@@ -1,0 +1,14 @@
+@font-face{
+	font-family: myFont;
+	src:url("../fonts/TaipeiSansTCBeta-Regular.ttf");
+	font-weight: normal;
+}
+@font-face{
+	font-family: myFont;
+	src:url("../fonts/TaipeiSansTCBeta-Bold.ttf");
+	font-weight: bold;
+}
+body, button, input, select, textarea, h1, h2, h3, h4, h5, h6{
+	font-family:myFont, FontAwesome;
+}
+
