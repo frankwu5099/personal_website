@@ -5,7 +5,13 @@ SITEURL = "."
 PATH = "content"
 
 TIMEZONE = 'America/Los_Angeles'
-ABOUT_ME = "It's so coooolu"
+ABOUT_ME = """
+
+Research Scientist
+資料科學、機器學習
+脫離學術的物理PhD
+
+"""
 
 DEFAULT_LANG = 'en'
 
