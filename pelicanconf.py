@@ -1,4 +1,4 @@
-AUTHOR = 'Po-Kuan Wu'
+AUTHOR = 'PK Wu'
 SITENAME = 'PK WU 學習筆記'
 SITEURL = "."
 
@@ -7,9 +7,12 @@ PATH = "content"
 TIMEZONE = 'America/Los_Angeles'
 ABOUT_ME = """
 
-Research Scientist
-資料科學、機器學習
-脫離學術的物理PhD
+旅居美國的平凡<br/>
+Research Scientist<br/>
+資料科學、機器學習<br/>
+脫離學術的物理PhD<br/>
+<br/>
+喜歡電影、閱讀</br>
 
 """
 
@@ -32,6 +35,7 @@ SOCIAL = (
     ("Linkedin", "https://www.linkedin.com/in/po-kuan-wu/"),
 )
 
+TWITTER_CARDS = True
 DEFAULT_PAGINATION = 10
 THEME = 'pelican-themes/pelican-bootstrap3'
 
